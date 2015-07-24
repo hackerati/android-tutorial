@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ListViewRules</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="moons_array">
+        <item>Pan</item>
+        <item>Daphnis</item>
+        <item>Atlas</item>
+        <item>Prometheus</item>
+        <item>Pandora</item>
+        <item>Epimetheus</item>
+        <item>Janus</item>
+        <item>Aegaeon</item>
+        <item>Mimas</item>
+        <item>Methone</item>
+        <item>Anthe</item>
+        <item>Pallene</item>
+        <item>Enceladus</item>
+        <item>Tethys</item>
+        <item>Telesto</item>
+        <item>Calypso</item>
+        <item>Dione</item>
+        <item>Helene</item>
+        <item>Polydeuces</item>
+        <item>Rhea</item>
+        <item>Titan</item>
+        <item>Hyperion</item>
+        <item>Iapetus</item>
+        <item>Kiviuq</item>
+        <item>Ijiraq</item>
+        <item>Phoebe</item>
+        <item>Paaliaq</item>
+        <item>Skathi</item>
+        <item>Albiorix</item>
+        <item>Bebhionn</item>
+        <item>Erriapo</item>
+        <item>Skoll</item>
+        <item>Siarnaq</item>
+        <item>Tarqeq</item>
+        <item>Greip</item>
+        <item>Hyrrokkin</item>
+        <item>Jarnsaxa</item>
+        <item>Tarvos</item>
+        <item>Mundilfari</item>
+        <item>Bergelmir</item>
+        <item>Narvi</item>
+        <item>Suttungr</item>
+        <item>Hati</item>
+        <item>Farbauti</item>
+        <item>Thrymr</item>
+        <item>Aegir</item>
+        <item>Bestla</item>
+        <item>Fenrir</item>
+        <item>Surtur</item>
+        <item>Kari</item>
+        <item>Ymir</item>
+        <item>Loge</item>
+        <item>Fornjot</item>
+    </string-array>
+
+</resources>
