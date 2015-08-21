@@ -136,10 +136,10 @@ public class MainActivity extends Activity {
             JSONObject query = jsonObject.getJSONObject("query");
             JSONObject pages = query.getJSONObject("pages");
             Iterator keys = pages.keys();
+
             while(keys.hasNext()) {
                 String pageId = (String)keys.next();
                 JSONObject pageObject = pages.getJSONObject(pageId);
-
                 extract = pageObject.getString("extract");
             }
         } catch (JSONException e) {
